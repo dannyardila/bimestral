@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 10px;
+}
+body{
+    background-image: url("/img/nub.jpg");
+    background-size: 1450px;
+    background-attachment: fixed;
+    background-color: blue;
+}
+.cont{
+    height: 10rem;
+
+}
+.nav{
+    display: inline-block;
+    text-decoration: none;
+}
+nav{
+    background-color: rgb(241, 238, 6);
+    font-size: 30px ;
+    text-decoration: none;
+    text-align: center;
+    padding: 20px;
+    border-bottom-left-radius: 50% ;
+    border-bottom-right-radius: 50%  ;
+    
+
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: rgb(64, 1, 238);
+    margin-right: 3rem;
+    margin-left: 3rem;
+
+}
+img{
+    width: 82px;
+    height: 50px;
+}
+a::after{
+    content: "";
+}
+h1{
+    text-align: center ;
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+
+.atd{
+    border-radius: 0%;
+    width:700px;
+    height:700px ;
+}
+section{
+    text-align: center;
+
+}
+
+.offcanvas-start{
+    max-width: 30rem;
+}
+.offcanvas-end{
+    background-color: rgb(243, 200, 6);
+}
+.nubogo{
+    width: 100px;
+}
+.boton-imagen{
+    width: 7rem;
+    height:7rem ;
+}
+.linksus{
+    visibility:visible
+}
+.jogo{
+    margin-left: 0px;
+    width: 13rem; 
+    height: 7rem;
+}
+
+.contenido{
+    font-size: 180px;
+    
+    
+    color: azure;
+
+}
