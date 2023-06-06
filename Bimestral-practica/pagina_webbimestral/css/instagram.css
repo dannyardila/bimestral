@@ -12,3 +12,12 @@ nav{
     width: 20rem; 
     height: 13rem;
 }
+
+body{
+    
+    background-size: 1450px;
+    background-attachment: fixed;
+    background-color: blue;
+    background: url('./img/fondo.png') no-repeat;
+    background-size: cover;
+}
